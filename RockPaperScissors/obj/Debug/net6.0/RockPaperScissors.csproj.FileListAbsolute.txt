@@ -1,0 +1,15 @@
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.AssemblyReference.cache
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.AssemblyInfo.cs
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.deps.json
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.runtimeconfig.json
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.dll
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/bin/Debug/net6.0/RockPaperScissors.pdb
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.dll
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/refint/RockPaperScissors.dll
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.pdb
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/RockPaperScissors.genruntimeconfig.cache
+/Users/Jarigo/Projects/RockPaperScissors/RockPaperScissors/obj/Debug/net6.0/ref/RockPaperScissors.dll
